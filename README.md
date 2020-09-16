@@ -7,3 +7,5 @@ Local Devlopment
 Open Index.html
 
 Feature 1
+
+Added feature 2
